@@ -1,0 +1,4 @@
+RPi.GPIO
+numpy
+PyBluez
+mpu6050-raspberrypi
