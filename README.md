@@ -7,7 +7,7 @@ Low-cost IoT smart coaster plus a Kotlin Android app for hydration tracking. The
 
 Co-authored [IEEE publication](https://ieeexplore.ieee.org/document/11449671). Rutgers Spring 2025 capstone. This tree is Classic Bluetooth RFCOMM, not the paper's BLE radio.
 
-> **Note:** This repository is a personal copy of [ks1686/DrinkSync](https://github.com/ks1686/DrinkSync), the original team project. It is kept here to showcase my contributions. Full credit for the project belongs to the original authors.
+> **Note:** This repository is a personal copy of [ks1686/DrinkSync](https://github.com/ks1686/DrinkSync), the original team project. It is kept here to showcase my contributions.
 
 ## My Contributions
 
