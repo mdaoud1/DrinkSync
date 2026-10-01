@@ -7,6 +7,16 @@ Low-cost IoT smart coaster plus a Kotlin Android app for hydration tracking. The
 
 Co-authored [IEEE publication](https://ieeexplore.ieee.org/document/11449671). Rutgers Spring 2025 capstone. This tree is Classic Bluetooth RFCOMM, not the paper's BLE radio.
 
+> **Note:** This repository is a personal copy of [ks1686/DrinkSync](https://github.com/ks1686/DrinkSync), the original team project. It is kept here to showcase my contributions. Full credit for the project belongs to the original authors.
+
+## My Contributions
+
+DrinkSync was a team capstone, and I focused on the Android app's user experience:
+
+- **Android UI:** I built Jetpack Compose screens for the app, including the main hydration dashboard with a live progress bar toward the daily goal, and the navigation between screens. The theme also reacts to progress. The bar changes colour and shows a "goal surpassed" message when you go over your target.
+- **Gamification:** I designed the motivation layer that turns drinking water into a habit. It includes an Achievements screen with a running day streak and milestone badges (halfway to goal, goal reached, 7-day and 30-day streaks). It also includes progress notifications at milestones such as 25% and 100% of the daily goal.
+- **Settings page:** I implemented the Settings screen, where users can toggle notifications, set a personal daily goal (saved immediately and persisted on the device), and reach Bluetooth settings to pair the coaster.
+
 ## What it does
 
 - Detects pours / sips from a load-cell coaster (HX711 + gyro for stability)
