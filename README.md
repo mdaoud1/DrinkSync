@@ -9,13 +9,13 @@ Co-authored [IEEE publication](https://ieeexplore.ieee.org/document/11449671). R
 
 > **Note:** This repository is a personal copy of [ks1686/DrinkSync](https://github.com/ks1686/DrinkSync), the original team project. It is kept here to showcase my contributions.
 
-## My Contributions
+## My contributions (Mohammad)
 
-DrinkSync was a team capstone, and I focused on the Android app's user experience:
-
-- **Android UI:** I built Jetpack Compose screens for the app, including the main hydration dashboard with a live progress bar toward the daily goal, and the navigation between screens. The theme also reacts to progress. The bar changes colour and shows a "goal surpassed" message when you go over your target.
-- **Gamification:** I designed the motivation layer that turns drinking water into a habit. It includes an Achievements screen with a running day streak and milestone badges (halfway to goal, goal reached, 7-day and 30-day streaks). It also includes progress notifications at milestones such as 25% and 100% of the daily goal.
-- **Settings page:** I implemented the Settings screen, where users can toggle notifications, set a personal daily goal (saved immediately and persisted on the device), and reach Bluetooth settings to pair the coaster.
+- Android UI with a live hydration progress dashboard
+- Gamification with daily-goal progress and streak tracking
+- Achievements screen with milestone badges
+- Notification updates at intake milestones (25% steps)
+- Settings page with notifications toggle and custom daily goal
 
 ## What it does
 
